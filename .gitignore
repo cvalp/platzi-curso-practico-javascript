@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+#la carpeta extraña que siempre se crea en mac
+.DS_Store
